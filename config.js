@@ -12,8 +12,8 @@ global.owner = [
   ['51936402349', '💫 Angel 2 💫', true],
 ] 
 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['51955336417'] 
+global.prems = ['51936402349'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '𝐋𝐲𝐭𝐳 𝐁𝐨𝐭'
