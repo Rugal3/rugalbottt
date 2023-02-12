@@ -59,7 +59,6 @@ ${readMore}
 ┃ *< 𝕀ℕ𝔽𝕆 𝔹𝕆𝕋 />*
 ┃≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡┃
 ┣ ඬ⃟ 💟 _${usedPrefix}terminosycondiciones_
-┣ ඬ⃟ 💟 _${usedPrefix}grupos_
 ┣ ඬ⃟ 💟 _${usedPrefix}estado_
 ┣ ඬ⃟ 💟 _${usedPrefix}infobot_
 ┣ ඬ⃟ 💟 _${usedPrefix}speedtest_
