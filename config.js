@@ -15,10 +15,10 @@ global.owner = [
 global.suittag = ['51955336417'] 
 global.prems = ['51936402349'] 
 
-global.packname = '(☞ﾟ∀ﾟ)☞'
+global.packname = '@lytz_oficial'
 global.author = '𝐋𝐲𝐭𝐳 𝐁𝐨𝐭'
-global.wm = '𝐋𝐲𝐭𝐳 𝐁𝐨𝐭'
-global.igfg = '𝐋𝐲𝐭𝐳 𝐁𝐨𝐭'
+global.wm = 'angel'
+global.igfg = 'angel'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
