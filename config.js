@@ -8,17 +8,17 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['51955336417', '👑 Angel 1 👑', true],
-  ['51936402349', '💫 Angel 2 💫', true],
+  ['51955336417', 'Lytz Oficial', true],
+  ['51936402349', 'Bot', true],
 ] 
 
 global.suittag = ['51955336417'] 
 global.prems = ['51936402349'] 
 
 global.packname = '@lytz_oficial'
-global.author = '𝐋𝐲𝐭𝐳 𝐁𝐨𝐭'
-global.wm = 'angel'
-global.igfg = 'angel'
+global.author = '@lytz_oficial'
+global.wm = '@lytz_oficial'
+global.igfg = '@lytz_oficial'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
