@@ -28,27 +28,13 @@ _- Si en algún momento recibe un mensaje del numero del Bot y no es un comando 
 *➤ Base usada para este Bot:*
 *- https://github.com/BochilGaming/games-wabot-md*
 
-*➤ Agradecimientos a:*
-*- Unx21*
-*- Narutomo*
-*- BochilGaming*
-*- Unxteam*
-*- Bochilteam*
-*- ConfuMods*
-*- Theh2so4*
-*- Hiro*
-*- The.sad.boy01*
-*- botstylee*
-*- Amel*
-*- FatihArridho*
-*- Adiwajshing*
-*- Darlyn*
-*- Etc.*
+
 
 *⁉️ Te quedaron dudas?*
 _- Si todavía tienes alguna duda o reclamo de lo mencionado aqui o referente al Bot, contáctame a mi numero personal al cual estaré respondiendo lo antes posible para brindarte una solución y/o hacerme responsable de alguna reclamación_ 
 
-> wa.me/5219992095479
-> Lytz Oficial 
+> wa.me/573207804209
+> wa.me/573217930681
+> Rugal Ventas 
 
-*∆ Lytz - BOT - MD ∆*`
+*∆ Rugal - BOT - MD ∆*`
